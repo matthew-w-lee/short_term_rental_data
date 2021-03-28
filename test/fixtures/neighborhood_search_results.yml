@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  listing: one
+  checkin: 2019-04-05
+  items_offset: 1
+  page_rank: 1
+  searched_neighborhood: MyString
+  taken_at: 2019-04-05 05:57:48
+
+two:
+  listing: two
+  checkin: 2019-04-05
+  items_offset: 1
+  page_rank: 1
+  searched_neighborhood: MyString
+  taken_at: 2019-04-05 05:57:48

@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dynamic_pricing_updated_at: MyString
+  conditions: MyString
+  listing_id: one
+  taken_at: 2019-04-06 02:07:34
+  calendar_date: 2019-04-06
+  available: false
+  available_for_checkin: false
+  max_nights: 1
+  min_nights: 1
+  price: MyString
+
+two:
+  dynamic_pricing_updated_at: MyString
+  conditions: MyString
+  listing_id: two
+  taken_at: 2019-04-06 02:07:34
+  calendar_date: 2019-04-06
+  available: false
+  available_for_checkin: false
+  max_nights: 1
+  min_nights: 1
+  price: MyString
