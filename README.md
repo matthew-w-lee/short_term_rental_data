@@ -1,5 +1,5 @@
 # Short-term Rental Data App
-[view demo](https://www.google.com)
+
 ## About
 This project provides a database for the processing and storage of data regarding the performance of short-term rentals in the Chicagoland area. 
 
@@ -11,4 +11,4 @@ This project provides a database for the processing and storage of data regardin
 
 Matthew W. Lee - matthew.w.lee44@gmail.com
 
-Project Link: [https://github.com/matthew-w-lee/XBRL_ETL](https://github.com/matthew-w-lee/XBRL_ETL)
+Project Link: [https://github.com/matthew-w-lee/short_term_rental_data](https://github.com/matthew-w-lee/short_term_rental_data)
