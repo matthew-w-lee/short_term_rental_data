@@ -119,12 +119,7 @@ class Row
 	def condition_ranges
 		@hash.select {|k,v| k.split("___")[0] == 'condition_ranges' unless k.nil?}.group_by {|k,v| k.split("___")[1]}.values.map {|f| ConditionRange.new(f)}
 	end
-#	def conditions
-#		
-#		@hash.each do |k,v|
-#
-#		end
-#	end
+
 
 end
 

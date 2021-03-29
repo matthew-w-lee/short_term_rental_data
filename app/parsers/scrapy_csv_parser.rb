@@ -257,17 +257,6 @@ class CsvRow
 		price_item_list
 	end
 
-#	def price_item(line_item_type, localized_explanation, localized_title, amount, currency)
-#		{
-#			line_item_type:
-#			localized_explanation:
-#			localized_title:
-#			amount:
-#			currency:
-#			pricing_quote_id:
-#		}
-#	end
-
 	def total_price_item
 		{
 			line_item_type: nil,
