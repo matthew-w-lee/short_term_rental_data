@@ -1,24 +1,14 @@
-# README
+# Short-term Rental Data App
+[view demo](https://www.google.com)
+## About
+This project provides a database for the processing and storage of data regarding the performance of short-term rentals in the Chicagoland area. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Built With
+* [Ruby on Rails](https://github.com/rails/rails)
 
-Things you may want to cover:
+<!-- CONTACT -->
+## Contact
 
-* Ruby version
+Matthew W. Lee - matthew.w.lee44@gmail.com
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Project Link: [https://github.com/matthew-w-lee/XBRL_ETL](https://github.com/matthew-w-lee/XBRL_ETL)
